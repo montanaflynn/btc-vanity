@@ -12,7 +12,6 @@ Vanity addresses are valid bitcoin addresses that contain human-readable message
 
 For example, `1LoveBPzzD72PUXLzCkYAtGFYmK5vYNR33` is a valid address that contains the letters forming the word "Love" as the first four Base-58 letters. Vanity addresses require generating and testing billions of candidate private keys, until one derives a bitcoin address with the desired pattern...[reference](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc)
 
-
 ### Length of address
 The frequency of a vanity pattern (1KidsCharity) and average time-to-find on a desktop PC
 

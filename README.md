@@ -1,7 +1,3 @@
----
-title: "btx-vanity"
----
-
 # btc-vanity
 
 [![Build Status](https://travis-ci.org/MarinX/btc-vanity.svg?branch=master)](https://travis-ci.org/MarinX/btc-vanity)
